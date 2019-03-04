@@ -1,0 +1,5 @@
+automationhat==0.1.0
+pathlib2==2.3.3
+pytest==4.1.1
+pigpio==1.42
+requests==2.21.0

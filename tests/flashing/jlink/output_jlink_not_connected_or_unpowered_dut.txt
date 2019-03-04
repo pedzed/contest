@@ -1,0 +1,39 @@
+----------------------------- Captured stdout call -----------------------------
+SEGGER J-Link Commander V6.40b (Compiled Jan 22 2019 11:33:34)
+DLL version V6.40b, compiled Jan 22 2019 11:33:16
+
+
+J-Link Command File read successfully.
+Processing script file...
+
+J-Link connection not established yet but required for command.
+Connecting to J-Link via USB...O.K.
+Firmware: J-Link V10 compiled Jan  7 2019 14:00:10
+Hardware version: V10.10
+S/N: 260107783
+License(s): FlashBP, GDB
+OEM: SEGGER-EDU
+VTref=0.000V
+Target connection not established yet but required for command.
+Device "NRF52832_XXAA" selected.
+
+
+Connecting to target via SWD
+Cannot connect to target.
+
+Target connection not established yet but required for command.
+Device "NRF52832_XXAA" selected.
+
+
+Connecting to target via SWD
+Cannot connect to target.
+
+Target connection not established yet but required for command.
+Device "NRF52832_XXAA" selected.
+
+
+Connecting to target via SWD
+Cannot connect to target.
+
+
+Script processing completed.

@@ -1,0 +1,19 @@
+----------------------------- Captured stdout call -----------------------------
+SEGGER J-Link Commander V6.40b (Compiled Jan 22 2019 11:33:34)
+DLL version V6.40b, compiled Jan 22 2019 11:33:16
+
+
+J-Link Command File read successfully.
+Processing script file...
+
+J-Link connection not established yet but required for command.
+Connecting to J-Link via USB...FAILED: Cannot connect to J-Link via USB.
+
+J-Link connection not established yet but required for command.
+Connecting to J-Link via USB...FAILED: Cannot connect to J-Link via USB.
+
+J-Link connection not established yet but required for command.
+Connecting to J-Link via USB...FAILED: Cannot connect to J-Link via USB.
+
+
+Script processing completed.
